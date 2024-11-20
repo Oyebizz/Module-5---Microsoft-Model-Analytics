@@ -1,0 +1,9 @@
+digraph {
+	A [label="Data Collection"]
+	B [label="Data Analysis"]
+	C [label="Model Development"]
+	D [label=Insights]
+	A -> B
+	B -> C
+	C -> D
+}
